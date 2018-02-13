@@ -1,1 +1,3 @@
-Information on mars: cold, dry, red
+Information on mars cold, dry, red.
+
+Contains two moons.
