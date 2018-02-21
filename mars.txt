@@ -7,3 +7,5 @@ Contains two moons.
 Very low humidity.
 
 It's different than venus.
+
+Close to earth.
